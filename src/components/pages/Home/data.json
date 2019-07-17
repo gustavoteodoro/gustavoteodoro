@@ -51,8 +51,18 @@
       ]
     },
     {
-      "category": "Tech Talks",
+      "category": "Talks",
       "projects": [
+        {
+          "title": "Cinema made with code (2019) - Front End Meetup Group Belo Horizonte",
+          "description": "Only in portuguese",
+          "link": "https://www.slideshare.net/gustavo.teodoro/cinema-made-with-code"
+        },
+        {
+          "title": "Audiovisual interaction beyond Black Mirror: Bandersnatch (2019) - The Developers Conference Belo Horizonte",
+          "description": "Only in portuguese",
+          "link": "https://www.slideshare.net/gustavo.teodoro/cinema-made-with-code"
+        },
         {
           "title": "React Native @ Grupo Tom (2018) - Belo Horizonte",
           "description": "Only in portuguese",
