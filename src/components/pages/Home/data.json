@@ -4,6 +4,11 @@
       "category": "Web development projects",
       "projects": [
         {
+          "title": "Meliuz.com.br (2019) - Belo Horizonte",
+          "description": "Next.js, React, Redux, Styled-components",
+          "link": "https://www.meliuz.com.br"
+        },
+        {
           "title": "Isso inspira @ Zoom.com.br (2018) - Rio de Janeiro",
           "description": "React, Redux, Styled-components",
           "link": "https://inspira.zoom.com.br"
