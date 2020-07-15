@@ -69,6 +69,11 @@
       "category": "Talks",
       "projects": [
         {
+          "title": "Disability and teamwork (2020) - Prosa Tech by SmartBot (Online)",
+          "description": "Video only in portuguese",
+          "link": "https://www.youtube.com/watch?v=1w_7qjikEAo"
+        },
+        {
           "title": "Cinema made with code (2019) - Front End Meetup Group Belo Horizonte",
           "description": "Only in portuguese",
           "link": "https://www.slideshare.net/gustavo.teodoro/cinema-made-with-code"
@@ -80,7 +85,7 @@
         },
         {
           "title": "React Native @ Grupo Tom (2018) - Belo Horizonte",
-          "description": "Only in portuguese",
+          "description": "Video only in portuguese",
           "link": "https://www.youtube.com/watch?v=drmtLNVo6oA"
         },
         {
