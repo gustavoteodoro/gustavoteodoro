@@ -4,52 +4,62 @@
       "category": "Web development projects",
       "projects": [
         {
-          "title": "Meliuz.com.br (2019) - Belo Horizonte",
+          "title": "Tweak - Institutional website (2020) - Ireland",
+          "description": "Gatsby, React, Redux, Styled-components, Prismic.io",
+          "link": "https://tweak.com/"
+        },
+        {
+          "title": "Tweak Templates (2020) - Ireland",
+          "description": "Gatsby, React, Redux, Styled-components, Prismic.io",
+          "link": "https://templates.tweak.com/"
+        },
+        {
+          "title": "Meliuz.com.br (2019) - Brazil",
           "description": "Next.js, React, Redux, Styled-components",
           "link": "https://www.meliuz.com.br"
         },
         {
-          "title": "Isso inspira @ Zoom.com.br (2018) - Rio de Janeiro",
+          "title": "Isso inspira @ Zoom.com.br (2018) - Brazil",
           "description": "React, Redux, Styled-components",
           "link": "https://inspira.zoom.com.br"
         },
         {
-          "title": "HackTown 2018 App (2018) - Rio de Janeiro / Belo Horizonte",
+          "title": "HackTown 2018 App (2018) - Brazil",
           "description": "React Native, Redux",
           "link": "https://itunes.apple.com/us/app/hacktown/id1420266279?ls=1&mt=8"
         },
         {
-          "title": "Hero Feedback App (2018) - Rio de Janeiro / Copenhagen",
+          "title": "Hero Feedback App (2018) - Brazil / Denmark",
           "description": "React Native, Redux",
           "link": "http://herofeedback.com/"
         },
         {
-          "title": "Oi (2017) - Huge Inc - Rio de Janeiro",
+          "title": "Oi (2017) - Huge Inc - Brazil",
           "description": "React, SASS, Redux",
           "link": "https://www.oi.com.br/"
         },
         {
-          "title": "Toro Investimentos (2017) - Huge Inc - Rio de Janeiro / Belo Horizonte",
+          "title": "Toro Investimentos (2017) - Huge Inc - Brazil",
           "description": "JavaScript, SASS, PUG",
           "link": "https://www.toroinvestimentos.com.br/"
         },
         {
-          "title": "FIAT App (2017) - Huge Inc - Rio de Janeiro / Belo Horizonte",
+          "title": "FIAT App (2017) - Huge Inc - Brazil",
           "description": "Prototype and animations documentation with JavaScript, HTML and CSS",
           "link": "https://play.google.com/store/apps/details?id=com.fcagroup.app.android&hl=pt_BR"
         },
         {
-          "title": "Current by GE (2016) - Huge Inc - Rio de Janeiro / New York",
+          "title": "Current by GE (2016) - Huge Inc - Brazil / USA",
           "description": "JavaScript, SASS, PUG, Node.js and SVG animations.",
           "link": "https://www.currentbyge.com"
         },
         {
-          "title": "Credit Cards @ ChaseBank (2016) - Huge Inc - Rio de Janeiro / New York",
+          "title": "Credit Cards @ ChaseBank (2016) - Huge Inc - Brazil / USA",
           "description": "JavaScript, PUG, SASS",
           "link": "https://creditcards.chase.com/"
         },
         {
-          "title": "Interbank (2016) - Huge Inc - Rio de Janeiro / Lima",
+          "title": "Interbank (2016) - Huge Inc - Brazil / Peru",
           "description": "JavaScript, SASS, HTML",
           "link": "https://interbank.pe/"
         }
