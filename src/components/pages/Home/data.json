@@ -159,6 +159,11 @@
       "category": "Podcasts",
       "projects": [
         {
+          "title": "DevDevs.org (2020)",
+          "description": "Presenter",
+          "link": "https://devdevs.org/"
+        },
+        {
           "title": "Multicast (2013)",
           "description": "Presenter",
           "link": "http://www.fca.pucminas.br/radio/category/entretenimento/multicast/"
