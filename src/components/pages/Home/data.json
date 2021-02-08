@@ -4,8 +4,13 @@
       "category": "Web development projects",
       "projects": [
         {
+          "title": "Beacon - Embraer X (2021) - USA / Brazil",
+          "description": "React Native, Typescript, GraphQL",
+          "link": "https://www.beacon.works/"
+        },
+        {
           "title": "Tweak - Institutional website (2020) - Ireland",
-          "description": "Gatsby, React, Redux, Styled-components, Prismic.io",
+          "description": "Gatsby, React, Redux, Typescript, Styled-components, Prismic.io",
           "link": "https://tweak.com/"
         },
         {
