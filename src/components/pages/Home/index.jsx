@@ -14,7 +14,7 @@ function Home() {
   return (
     <HomeContainer>
       <Logo />
-      {works.map(work => (
+      {works.map((work) => (
         <List
           key={work.category}
           category={work.category}

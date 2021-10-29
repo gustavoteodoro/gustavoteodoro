@@ -1,3 +1,4 @@
+import { arrayOf, string } from 'prop-types';
 import React from 'react';
 
 import {
@@ -22,7 +23,7 @@ function List(props) {
         {category}
       </ListTitle>
       <ListItems>
-        {projects.map(project => (
+        {projects.map((project) => (
           <ListItemLink key={project.title} href={project.link} target="blank">
             <ListItem>
               <ListItemTitle>{project.title}</ListItemTitle>
@@ -35,5 +36,13 @@ function List(props) {
   );
 }
 
+List.propTypes = {
+  category: string.isRequired,
+  projects: arrayOf({
+    title: string,
+    link: string,
+    description: string,
+  }).isRequired,
+};
 
 export default List;
