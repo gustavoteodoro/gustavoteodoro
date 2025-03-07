@@ -9,7 +9,7 @@
           "link": "https://www.forumdoc.org.br/"
         },
         {
-          "title": "Vancouver For Amazon (2023) - Canada",
+          "title": "Vancouver For Amazon Rainforest (2023) - Canada",
           "description": "Tech stack: Next.js, Typescript, Prismic.io",
           "link": "https://www.vancouverforamazon.org/"
         },
@@ -17,6 +17,86 @@
           "title": "The Facts Machine - New York Civil Liberties Union (2017) - USA",
           "description": "Tech stack: React, HTML, CSS",
           "link": "/projects/the-facts-machine"
+        }
+      ]
+    },
+    {
+      "category": "Articles",
+      "projects": [
+        {
+          "title": "Information vs Experience: how to build mature Design Systems (2023) - UX Collective",
+          "description": "English",
+          "link": "https://medium.com/user-experience-design-1/how-the-distinction-between-information-and-experience-can-contribute-to-the-maturity-of-a-design-1f85d03dced8"
+        },
+        {
+          "title": "Developers: Stop using the user as an excuse (2020)",
+          "description": "English",
+          "link": "https://gustavoteodoro.medium.com/developers-stop-using-the-user-as-an-excuse-ec3ec9f610b8"
+        },
+        {
+          "title": "Does Brazil really need more developers? (2021)",
+          "description": "Portuguese",
+          "link": "https://gustavoteodoro.medium.com/o-brasil-precisa-mesmo-de-mais-programadores-7179d31e74b8"
+        },
+        {
+          "title": "Stop using the user as an excuse (2018) - UX Collective BR",
+          "description": "Portuguese",
+          "link": "https://brasil.uxdesign.cc/pare-de-usar-o-usu%C3%A1rio-como-desculpa-1808fe274193"
+        },
+        {
+          "title": "Audiovisual interaction beyond Black Mirror: Bandersnatch (2018)",
+          "description": "Portuguese",
+          "link": "https://medium.com/@gustavoteodoro/interatividade-no-audiovisual-para-al%C3%A9m-de-black-mirror-bandersnatch-226bf6060537"
+        },
+        {
+          "title": "Removing borders between the real and the virtual world with Second Life (2017) - Magenta Brazil",
+          "description": "Portuguese",
+          "link": "https://br.magenta.as/eliminando-as-fronteiras-entre-o-real-e-o-virtual-com-o-second-life-49b4f3f9660a"
+        }
+      ]
+    },
+    {
+      "category": "Talks",
+      "projects": [
+        {
+          "title": "A Step Closer to Accessible Forms - VanJS Meetup",
+          "description": "Vancouver, Canada - February 2025",
+          "link": "https://lu.ma/lpklaxwu"
+        },
+        {
+          "title": "Information vs Experience: How to Build Mature Design Systems - VanJS Meetup",
+          "description": "Vancouver, Canada - October 2024",
+          "link": "https://lu.ma/lpklaxwu"
+        },
+        {
+          "title": "Unlearning and teamwork - Prosa Tech by SmartBot (Online Meetup)",
+          "description": "Belo Horizonte, Brazil - May 2020 (Video available in Portuguese)",
+          "link": "https://www.youtube.com/watch?v=1w_7qjikEAo"
+        },
+        {
+          "title": "Cinema made with code (2019) - Front End Meetup Group Belo Horizonte",
+          "description": "Portuguese",
+          "link": "https://www.slideshare.net/gustavo.teodoro/cinema-made-with-code"
+        },
+        {
+          "title": "Audiovisual interaction beyond Black Mirror: Bandersnatch (2019) - The Developers Conference Belo Horizonte",
+          "description": "Portuguese",
+          "link": "https://www.slideshare.net/gustavo.teodoro/cinema-made-with-code"
+        },
+        {
+          "title": "React Native @ Grupo Tom (2018) - Belo Horizonte",
+          "description": "Video Portuguese",
+          "link": "https://www.youtube.com/watch?v=drmtLNVo6oA"
+        },
+        {
+          "title": "Atomic Design @ React Rio Meetup (2018) - Rio de Janeiro",
+          "description": "Slides in portuguese",
+          "link": "https://pt.slideshare.net/gustavo.teodoro/pensando-componentes-react-com-atomic-design"
+        },
+        {
+          "title": "What is social networking? (2015) - Belo Horizonte",
+          "description": "Slides in portuguese",
+          "link": "https://slides.com/gustavoteodoro/rede"
         }
       ]
     },
@@ -117,81 +197,6 @@
           "title": "Grupo Corpo (2014) - Lápis Raro - Brazil ",
           "description": "Tech Stack: Tech stack: Wordpress, HTML, CSS, JavaScript, Gulp",
           "link": "https://grupocorpo.com.br/"
-        }
-      ]
-    },
-    {
-      "category": "Articles",
-      "projects": [
-        {
-          "title": "Developers: Stop using the user as an excuse (2020)",
-          "description": "English Version",
-          "link": "https://gustavoteodoro.medium.com/developers-stop-using-the-user-as-an-excuse-ec3ec9f610b8"
-        },
-        {
-          "title": "Does Brazil really need more developers? (2021)",
-          "description": "Portuguese only",
-          "link": "https://gustavoteodoro.medium.com/o-brasil-precisa-mesmo-de-mais-programadores-7179d31e74b8"
-        },
-        {
-          "title": "Stop using the user as an excuse (2018) - UX Collective BR",
-          "description": "Portugues only",
-          "link": "https://brasil.uxdesign.cc/pare-de-usar-o-usu%C3%A1rio-como-desculpa-1808fe274193"
-        },
-        {
-          "title": "Audiovisual interaction beyond Black Mirror: Bandersnatch (2018)",
-          "description": "Portugues only",
-          "link": "https://medium.com/@gustavoteodoro/interatividade-no-audiovisual-para-al%C3%A9m-de-black-mirror-bandersnatch-226bf6060537"
-        },
-        {
-          "title": "Removing borders between the real and the virtual world with Second Life (2017) - Magenta Brazil",
-          "description": "Portugues only",
-          "link": "https://br.magenta.as/eliminando-as-fronteiras-entre-o-real-e-o-virtual-com-o-second-life-49b4f3f9660a"
-        }
-      ]
-    },
-    {
-      "category": "Talks",
-      "projects": [
-        {
-          "title": "A Step Closer to Accessible Forms - VanJS Meetup",
-          "description": "Vancouver, Canada - February 2025",
-          "link": "https://lu.ma/lpklaxwu"
-        },
-        {
-          "title": "Information vs Experience: How to Build Mature Design Systems - VanJS Meetup",
-          "description": "Vancouver, Canada - October 2024",
-          "link": "https://lu.ma/lpklaxwu"
-        },
-        {
-          "title": "Unlearning and teamwork - Prosa Tech by SmartBot (Online Meetup)",
-          "description": "Belo Horizonte, Brazil - May 2020 (Video available in Portuguese)",
-          "link": "https://www.youtube.com/watch?v=1w_7qjikEAo"
-        },
-        {
-          "title": "Cinema made with code (2019) - Front End Meetup Group Belo Horizonte",
-          "description": "Portugues only",
-          "link": "https://www.slideshare.net/gustavo.teodoro/cinema-made-with-code"
-        },
-        {
-          "title": "Audiovisual interaction beyond Black Mirror: Bandersnatch (2019) - The Developers Conference Belo Horizonte",
-          "description": "Portugues only",
-          "link": "https://www.slideshare.net/gustavo.teodoro/cinema-made-with-code"
-        },
-        {
-          "title": "React Native @ Grupo Tom (2018) - Belo Horizonte",
-          "description": "Video Portugues only",
-          "link": "https://www.youtube.com/watch?v=drmtLNVo6oA"
-        },
-        {
-          "title": "Atomic Design @ React Rio Meetup (2018) - Rio de Janeiro",
-          "description": "Only slides in portuguese",
-          "link": "https://pt.slideshare.net/gustavo.teodoro/pensando-componentes-react-com-atomic-design"
-        },
-        {
-          "title": "What is social networking? (2015) - Belo Horizonte",
-          "description": "Mixed portuguese and english",
-          "link": "https://slides.com/gustavoteodoro/rede"
         }
       ]
     },
