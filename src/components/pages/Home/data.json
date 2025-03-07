@@ -5,17 +5,14 @@
       "projects": [
         {
           "title": "Forumdoc.bh - Documentary and Ethnographic Film Festival (2011 - Currently) - Brazil",
-          "description": "Tech stack: Next.js, Typescript, Styled-components, Prismic.io",
           "link": "https://www.forumdoc.org.br/"
         },
         {
           "title": "Vancouver For Amazon Rainforest (2023) - Canada",
-          "description": "Tech stack: Next.js, Typescript, Prismic.io",
           "link": "https://www.vancouverforamazon.org/"
         },
         {
           "title": "The Facts Machine - New York Civil Liberties Union (2017) - USA",
-          "description": "Tech stack: React, HTML, CSS",
           "link": "/projects/the-facts-machine"
         }
       ]
@@ -147,11 +144,6 @@
           "title": "Hero Feedback App (2018) - Brazil / Denmark",
           "description": "Tech stack: React Native, Redux",
           "link": "http://herofeedback.com/"
-        },
-        {
-          "title": "New York Facts Machine (2017) - New York Civil Liberties Union - USA / Brazil",
-          "description": "Tech stack: PUG, Sass, JavaScript ",
-          "link": "https://magenta.as/this-fax-machine-is-fighting-for-progress-76edf80fc3e7"
         },
         {
           "title": "Oi (2017) - Huge Inc - Brazil",
