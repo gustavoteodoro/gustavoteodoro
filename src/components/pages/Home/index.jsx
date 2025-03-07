@@ -8,13 +8,13 @@ import {
   HomeContainer,
 } from './style';
 
-import { works } from './data.json';
+import data from './data.json';
 
 function Home() {
   return (
     <HomeContainer>
       <Logo />
-      {works.map((work) => (
+      {data.works.map((work) => (
         <List
           key={work.category}
           category={work.category}

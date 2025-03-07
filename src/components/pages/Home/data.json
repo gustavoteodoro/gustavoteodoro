@@ -1,8 +1,38 @@
 {
   "works": [
     {
-      "category": "Web development projects",
+      "category": "Volunteer Web Development",
       "projects": [
+        {
+          "title": "Forumdoc.bh - Documentary and Ethnographic Film Festival (2011 - Currently) - Brazil",
+          "description": "Tech stack: Next.js, Typescript, Styled-components, Prismic.io",
+          "link": "https://www.forumdoc.org.br/"
+        },
+        {
+          "title": "Vancouver For Amazon (2023) - Canada",
+          "description": "Tech stack: Next.js, Typescript, Prismic.io",
+          "link": "https://www.vancouverforamazon.org/"
+        },
+        {
+          "title": "The Facts Machine - New York Civil Liberties Union (2017) - USA",
+          "description": "Tech stack: React, HTML, CSS",
+          "link": "/projects/the-facts-machine"
+        }
+      ]
+    },
+    {
+      "category": "Professional Web Development",
+      "projects": [
+        {
+          "title": "Thinkific Design System - (2023 - Currently) - Canada",
+          "description": "Tech stack: React, Typescript, Vanilla-extract CSS, Storybook",
+          "link": "https://www.thinkific.com/"
+        },
+        {
+          "title": "Thinkific Website (2022) - Canada",
+          "description": "Tech stack: Next.js, Typescript, Styled-components, Prismic.io",
+          "link": "https://www.thinkific.com/"
+        },
         {
           "title": "Beacon - Embraer X (2021) - USA / Brazil",
           "description": "Tech stack: React Native, Typescript, GraphQL",
@@ -87,11 +117,6 @@
           "title": "Grupo Corpo (2014) - Lápis Raro - Brazil ",
           "description": "Tech Stack: Tech stack: Wordpress, HTML, CSS, JavaScript, Gulp",
           "link": "https://grupocorpo.com.br/"
-        },
-        {
-          "title": "forumdoc.bh (2011) - Brazil",
-          "description": "Tech stack: Wordpress, HTML, CSS, JavaScript",
-          "link": "https://www.forumdoc.org.br/"
         }
       ]
     },
@@ -129,8 +154,18 @@
       "category": "Talks",
       "projects": [
         {
-          "title": "Unlearning and teamwork (2020) - Prosa Tech by SmartBot (Online Meetup)",
-          "description": "Video Portugues only",
+          "title": "A Step Closer to Accessible Forms - VanJS Meetup",
+          "description": "Vancouver, Canada - February 2025",
+          "link": "https://lu.ma/lpklaxwu"
+        },
+        {
+          "title": "Information vs Experience: How to Build Mature Design Systems - VanJS Meetup",
+          "description": "Vancouver, Canada - October 2024",
+          "link": "https://lu.ma/lpklaxwu"
+        },
+        {
+          "title": "Unlearning and teamwork - Prosa Tech by SmartBot (Online Meetup)",
+          "description": "Belo Horizonte, Brazil - May 2020 (Video available in Portuguese)",
           "link": "https://www.youtube.com/watch?v=1w_7qjikEAo"
         },
         {
@@ -171,31 +206,6 @@
       ]
     },
     {
-      "category": "Cinema projects",
-      "projects": [
-        {
-          "title": "Das Cinco (2015)",
-          "description": "Director",
-          "link": "https://www.youtube.com/watch?v=8DO2qOLoBcg"
-        },
-        {
-          "title": "Music video: Ana Muniz - Tita (2014)",
-          "description": "Producer",
-          "link": "https://www.youtube.com/watch?v=gWEM3JKdHI8"
-        },
-        {
-          "title": "Documentary: A visita de Ana Muniz em Belo Horizonte (2013)",
-          "description": "Director and producer",
-          "link": "https://vimeo.com/80836212"
-        },
-        {
-          "title": "Warley Bombi (2013)",
-          "description": "Director and producer",
-          "link": "https://vimeo.com/65780992"
-        }
-      ]
-    },
-    {
       "category": "Podcasts",
       "projects": [
         {
@@ -206,7 +216,17 @@
         {
           "title": "Multicast (2013)",
           "description": "Presenter",
-          "link": "http://www.fca.pucminas.br/radio/category/entretenimento/multicast/"
+          "link": "https://fca.pucminas.br/radio-online/"
+        }
+      ]
+    },
+    {
+      "category": "Audiovisual",
+      "projects": [
+        {
+          "title": "Music video: Ana Muniz - Tita (2014)",
+          "description": "Producer",
+          "link": "https://www.youtube.com/watch?v=gWEM3JKdHI8"
         }
       ]
     }
