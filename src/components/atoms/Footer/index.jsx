@@ -17,7 +17,7 @@ function Footer() {
         {' - '}
         <a href="https://github.com/gustavoteodoro/" target="_blank" rel="noopener noreferrer">Github</a>
         {' - '}
-        <a href="https://soundcloud.com/escutegustavo" target="_blank" rel="noopener noreferrer">Soundcloud</a>
+        {/* <a href="https://soundcloud.com/escutegustavo" target="_blank" rel="noopener noreferrer">Soundcloud</a> */}
       </FooterText>
 
     </FooterContainer>
