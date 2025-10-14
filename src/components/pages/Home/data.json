@@ -1,23 +1,6 @@
 {
   "works": [
     {
-      "category": "Volunteer Web Development",
-      "projects": [
-        {
-          "title": "Forumdoc.bh - Documentary and Ethnographic Film Festival (2011 - Currently) - Brazil",
-          "link": "https://www.forumdoc.org.br/"
-        },
-        {
-          "title": "Vancouver For Amazon Rainforest (2023) - Canada",
-          "link": "https://www.vancouverforamazon.org/"
-        },
-        {
-          "title": "The Facts Machine - New York Civil Liberties Union (2017) - USA",
-          "link": "/projects/the-facts-machine"
-        }
-      ]
-    },
-    {
       "category": "Articles",
       "projects": [
         {
@@ -189,6 +172,23 @@
           "title": "Grupo Corpo (2014) - Lápis Raro - Brazil ",
           "description": "Tech Stack: Tech stack: Wordpress, HTML, CSS, JavaScript, Gulp",
           "link": "https://grupocorpo.com.br/"
+        }
+      ]
+    },
+    {
+      "category": "Volunteer Web Development",
+      "projects": [
+        {
+          "title": "Forumdoc.bh - Documentary and Ethnographic Film Festival (2011 - Currently) - Brazil",
+          "link": "https://www.forumdoc.org.br/"
+        },
+        {
+          "title": "Vancouver For Amazon Rainforest (2023) - Canada",
+          "link": "https://www.vancouverforamazon.org/"
+        },
+        {
+          "title": "The Facts Machine - New York Civil Liberties Union (2017) - USA",
+          "link": "/projects/the-facts-machine"
         }
       ]
     },
