@@ -36,21 +36,30 @@ export const ListItemTitle = styled.h3`
   display: inline-block;
   margin: 0;
   font-size: 14px;
-  transition: all 0.3s ease;
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition: all 0.3s ease;
+  }
 `;
 
 export const ListItemDesc = styled.p`
   margin: 0;
   font-size: 12px;
-  transition: all 0.3s ease;
-  color: #888;
+  color: rgb(84, 84, 84);
   margin: 10px 10px 0;
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition: all 0.3s ease;
+  }
 `;
 
 export const ListItem = styled.li`
   display: block;
   padding: 15px 0 0;
-  transition: all 0.3s ease;
+  
+  @media (prefers-reduced-motion: no-preference) {
+    transition: all 0.3s ease;
+  }
 
   &:hover {
     background: #000;

@@ -13,14 +13,18 @@ import data from './data.json';
 function Home() {
   return (
     <HomeContainer>
-      <Logo />
-      {data.works.map((work) => (
-        <List
-          key={work.category}
-          category={work.category}
-          projects={work.projects}
-        />
-      ))}
+      <header>
+        <Logo />
+      </header>
+      <main>
+        {data.works.map((work) => (
+          <List
+            key={work.category}
+            category={work.category}
+            projects={work.projects}
+          />
+        ))}
+      </main>
       <Footer />
     </HomeContainer>
   );

@@ -24,12 +24,12 @@ function List(props) {
       </ListTitle>
       <ListItems>
         {projects.map((project) => (
-          <ListItemLink key={project.title} href={project.link} target="blank">
-            <ListItem>
+          <ListItem key={project.title}>
+            <ListItemLink href={project.link} target="blank">
               <ListItemTitle>{project.title}</ListItemTitle>
               <ListItemDesc>{project.description}</ListItemDesc>
-            </ListItem>
-          </ListItemLink>
+            </ListItemLink>
+          </ListItem>
         ))}
       </ListItems>
     </ListContainer>

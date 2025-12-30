@@ -15,11 +15,10 @@ function Footer() {
       <FooterText>
         <a href="https://www.linkedin.com/in/gustavoteodoro/" target="_blank" rel="noopener noreferrer">Linkedin</a>
         {' - '}
-        <a href="https://github.com/gustavoteodoro/" target="_blank" rel="noopener noreferrer">Github</a>
+        <a href="https://medium.com/@gustavoteodoro" target="_blank" rel="noopener noreferrer">Medium</a>
         {' - '}
-        {/* <a href="https://soundcloud.com/escutegustavo" target="_blank" rel="noopener noreferrer">Soundcloud</a> */}
+        <a href="https://github.com/gustavoteodoro/" target="_blank" rel="noopener noreferrer">Github</a>
       </FooterText>
-
     </FooterContainer>
   );
 }

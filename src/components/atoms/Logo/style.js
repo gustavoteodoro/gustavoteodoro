@@ -25,7 +25,6 @@ export const LogoText = styled.h1`
 export const LogoDescription = styled.span`
   display: block;
   font-family: "Ubuntu", sans-serif;
-  opacity: 0.4;
 
   b {
     font-weight: 700;
