@@ -14,7 +14,7 @@ function Logo() {
         <span>teodoro</span>
       </LogoText>
       <LogoDescription>
-        front-end
+        web
         {' '}
         <b>engineer</b>
         {' '}
