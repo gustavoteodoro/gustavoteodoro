@@ -14,9 +14,9 @@ function Logo() {
         <span>teodoro</span>
       </LogoText>
       <LogoDescription>
-        staff
+        front-end
         {' '}
-        <b>front-end engineer</b>
+        <b>engineer</b>
         {' '}
         and multimedia
         {' '}
