@@ -19,3 +19,7 @@ export const FooterText = styled.p`
     font-weight: 700;
   }
 `;
+
+export const CarbonContainer = styled.div`
+  margin-top: 16px;
+`;

@@ -1,6 +1,8 @@
 import React from 'react';
+import { Carbonbadge } from 'react-carbonbadge';
 
 import {
+  CarbonContainer,
   FooterContainer,
   FooterText,
 } from './style';
@@ -8,7 +10,6 @@ import {
 function Footer() {
   return (
     <FooterContainer>
-      <FooterText />
       <FooterText>
         gustavo@teodoro.dev
       </FooterText>
@@ -19,6 +20,9 @@ function Footer() {
         {' - '}
         <a href="https://github.com/gustavoteodoro/" target="_blank" rel="noopener noreferrer">Github</a>
       </FooterText>
+      <CarbonContainer>
+        <Carbonbadge />
+      </CarbonContainer>
     </FooterContainer>
   );
 }
