@@ -1,5 +1,4 @@
 import React from 'react';
-import { Carbonbadge } from 'react-carbonbadge';
 
 import {
   CarbonContainer,
@@ -21,7 +20,15 @@ function Footer() {
         <a href="https://github.com/gustavoteodoro/" target="_blank" rel="noopener noreferrer">Github</a>
       </FooterText>
       <CarbonContainer>
-        <Carbonbadge />
+        <FooterText>
+          This web page achieves a
+          {' '}
+          <a href="https://www.websitecarbon.com/website/teodoro-dev/" target="_blank" rel="noopener noreferrer">carbon rating of A+</a>
+          .
+        </FooterText>
+        <FooterText>
+          This is cleaner than 97 % of all web pages globally.
+        </FooterText>
       </CarbonContainer>
     </FooterContainer>
   );
