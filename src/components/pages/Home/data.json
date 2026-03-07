@@ -39,14 +39,19 @@
       "category": "Talks",
       "projects": [
         {
+          "title": "Defining Your Next Tech Stack - VanJS Meetup",
+          "description": "Vancouver, Canada - February 2026",
+          "link": "https://luma.com/8omvlplm"
+        },
+        {
           "title": "A Step Closer to Accessible Forms - VanJS Meetup",
           "description": "Vancouver, Canada - February 2025",
-          "link": "https://lu.ma/lpklaxwu"
+          "link": "https://www.youtube.com/watch?v=9L6WwuKVHJg"
         },
         {
           "title": "Information vs Experience: How to Build Mature Design Systems - VanJS Meetup",
           "description": "Vancouver, Canada - October 2024",
-          "link": "https://lu.ma/lpklaxwu"
+          "link": "https://www.youtube.com/watch?v=i8LwAsdvGds"
         },
         {
           "title": "Unlearning and teamwork - Prosa Tech by SmartBot (Online Meetup)",
@@ -84,9 +89,9 @@
       "category": "Professional Web Development",
       "projects": [
         {
-          "title": "Thinkific Design System - (2023 - Currently) - Canada",
+          "title": "Thinkific's Design System - (2023 - Currently) - Canada",
           "description": "Tech stack: React, Typescript, Vanilla-extract CSS, Storybook",
-          "link": "https://www.thinkific.com/"
+          "link": "https://chalk.thinkific.com/"
         },
         {
           "title": "Thinkific Website (2022) - Canada",
