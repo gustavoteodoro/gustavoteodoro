@@ -13,7 +13,7 @@ function Footer() {
         Code is poetry.
       </FooterText>
       <FooterText>
-        <a href="https://drive.proton.me/urls/FPR90SSS9M#f4TQiaxxUpeU" rel="noreferrer" target="_blank">Curriculum</a>
+        <a href="https://drive.proton.me/urls/PQM09KF534#IXkF0HAQC0wg" rel="noreferrer" target="_blank">Curriculum</a>
         {' | '}
         <a href="https://www.linkedin.com/in/gustavoteodoro/" target="_blank" rel="noopener noreferrer">Linkedin</a>
         {' | '}
