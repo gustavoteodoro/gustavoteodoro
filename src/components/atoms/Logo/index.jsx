@@ -37,15 +37,15 @@ function Logo() {
         .
       </LogoDescription>
       <LogoDescription>
-        Participant in the
+        Professional Member @
         {' '}
-        <a href="https://www.w3.org/community/design-tokens/" target="_blank" rel="noopener noreferrer">Design Tokens Community Group @ W3</a>
+        <a href="https://www.credly.com/badges/247a949b-5a43-4f0d-b615-3b991df6ae39/linked_in_profile" target="_blank" rel="noopener noreferrer">International Association of Accessibility Professionals</a>
         .
       </LogoDescription>
       <LogoDescription>
-        Professional Member @
+        Participant in the
         {' '}
-        <a href="https://www.accessibilityassociation.org/" target="_blank" rel="noopener noreferrer">International Association of Accessibility Professionals</a>
+        <a href="https://www.w3.org/community/design-tokens/" target="_blank" rel="noopener noreferrer">Design Tokens Community Group @ W3</a>
         .
       </LogoDescription>
       <LogoDescription>
